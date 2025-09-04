@@ -37,3 +37,15 @@ NLP-WEB-APP/
 │-- users.json       # Stores user credentials
 │-- README.md        # Project documentation
 
+
+📌 Future Improvements
+
+✅ Replace JSON file with a proper database (SQLite/PostgreSQL).
+
+✅ Add more NLP features (Sentiment Analysis, Summarization, etc.).
+
+✅ Improve UI using Bootstrap/Tailwind/React.
+
+📜 License
+
+This project is licensed under the MIT License.
