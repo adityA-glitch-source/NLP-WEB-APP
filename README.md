@@ -28,3 +28,12 @@ Backend: Python (Flask)
 Data Storage: JSON file (instead of DB)
 
 API: ParallelDots Named Entity Recognition
+
+📂 Project Structure
+NLP-WEB-APP/
+│-- static/          # CSS, JS files
+│-- templates/       # HTML templates
+│-- app.py           # Flask/Django main server file
+│-- users.json       # Stores user credentials
+│-- README.md        # Project documentation
+
